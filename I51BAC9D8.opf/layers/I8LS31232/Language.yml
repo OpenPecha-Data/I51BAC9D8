@@ -1,0 +1,14 @@
+id: cdc45ed160154a25addc055c5d3be1b3
+annotation_type: Language
+revision: '00001'
+annotations:
+  9d12f7e17ceb46539883a2a377fd7652:
+    span:
+      start: 39
+      end: 165
+    language: en
+  1cfde9ef4c904d5a85f2a27ea78984fb:
+    span:
+      start: 194
+      end: 582
+    language: en
